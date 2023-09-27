@@ -1,0 +1,16 @@
+#gameDiv {
+    width: 250px;
+    height: 150px;
+    background-color: #222222;
+    border-radius: 25px;
+    color: white;
+    border: 5px black solid;
+    text-align: center;
+}
+.choiceBtn {
+    color: white;
+    background-color: #222222;
+    border: 2px solid;
+    width: 75px;
+    height: 25px;
+}
